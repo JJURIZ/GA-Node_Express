@@ -1,0 +1,19 @@
+{
+  "name": "ga-node_express",
+  "version": "1.0.0",
+  "description": "Creating Readme documentation on Node & Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJURIZ/GA-Node_Express.git"
+  },
+  "author": "Jeremy Uriz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JJURIZ/GA-Node_Express/issues"
+  },
+  "homepage": "https://github.com/JJURIZ/GA-Node_Express#readme"
+}
