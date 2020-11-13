@@ -54,3 +54,5 @@ When initializing the repository check the box by `Add .gitignore`. Under choose
 ![gitignore](./assets/gitignore.png)
 
 If the repository was initialized without a `.gitignore` file, simply create a file in the project directory with the name `.gitignore`. Open the file in your IDE and copy the conents from [this GitHub repository](https://github.com/github/gitignore/blob/master/Node.gitignore). 
+
+As requested, here is a [link](https://github.com/JJURIZ/node_modules_practice) to my assignment from November 12th, 2020
