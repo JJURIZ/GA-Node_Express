@@ -1,5 +1,6 @@
 const { randy } = require(`./otherModule`);
 
+
 const myTernary = (num) => {
     return num >= 0 ? 
     `Your number is ${num} and it's equal or more than zero.`:

@@ -46,3 +46,11 @@ Using object destructing we can enter the following at the top of the file
 const { add, subtract } = require('./operations.js');
 ```
 The above code allows us to use the functions `add` and `subtract` inside of `index.js`.
+
+## Adding .gitignore
+The easiest way to add a `.gitignore` file is to include it when creating a repository. 
+When initializing the repository check the box by `Add .gitignore`. Under choose template select the appropriate files to ignore. For the current project search `node` and select it from the list. 
+
+![gitignore](./assets/gitignore.png)
+
+If the repository was initialized without a `.gitignore` file, simply create a file in the project directory with the name `.gitignore`. Open the file in your IDE and copy the conents from [this GitHub repository](https://github.com/github/gitignore/blob/master/Node.gitignore). 
